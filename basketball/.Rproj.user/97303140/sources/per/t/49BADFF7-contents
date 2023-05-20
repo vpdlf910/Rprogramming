@@ -1,0 +1,1 @@
+myplot((Points -FreeThrows) /FieldGoals )
